@@ -1,0 +1,55 @@
+Sample 1:
+Total read pairs processed:            143,103
+  Read 1 with adapter:                 134,826 (94.2%)
+  Read 2 with adapter:                 139,490 (97.5%)
+Pairs that were too short:              18,264 (12.8%)
+Pairs written (passing filters):       121,646 (85.0%)
+
+Total basepairs processed:    86,148,006 bp
+  Read 1:    43,074,003 bp
+  Read 2:    43,074,003 bp
+Total written (filtered):     66,772,247 bp (77.5%)
+  Read 1:    33,183,400 bp
+  Read 2:    33,588,847 bp
+
+Sample 2:
+Total read pairs processed:            168,377
+  Read 1 with adapter:                 155,582 (92.4%)
+  Read 2 with adapter:                 162,296 (96.4%)
+Pairs that were too short:              22,043 (13.1%)
+Pairs written (passing filters):       139,824 (83.0%)
+
+Total basepairs processed:   101,362,954 bp
+  Read 1:    50,681,477 bp
+  Read 2:    50,681,477 bp
+Total written (filtered):     76,564,998 bp (75.5%)
+  Read 1:    38,021,374 bp
+  Read 2:    38,543,624 bp
+
+Sample 3:
+Total read pairs processed:            152,628
+  Read 1 with adapter:                 136,184 (89.2%)
+  Read 2 with adapter:                 146,513 (96.0%)
+Pairs that were too short:              30,030 (19.7%)
+Pairs written (passing filters):       116,759 (76.5%)
+
+Total basepairs processed:    91,882,056 bp
+  Read 1:    45,941,028 bp
+  Read 2:    45,941,028 bp
+Total written (filtered):     61,678,235 bp (67.1%)
+  Read 1:    30,623,150 bp
+  Read 2:    31,055,085 bp
+
+Sample 4:
+Total read pairs processed:            185,798
+  Read 1 with adapter:                 169,217 (91.1%)
+  Read 2 with adapter:                 175,235 (94.3%)
+Pairs that were too short:              16,006 (8.6%)
+Pairs written (passing filters):       155,809 (83.9%)
+
+Total basepairs processed:   111,850,396 bp
+  Read 1:    55,925,198 bp
+  Read 2:    55,925,198 bp
+Total written (filtered):     84,417,186 bp (75.5%)
+  Read 1:    41,917,507 bp
+  Read 2:    42,499,679 bp
